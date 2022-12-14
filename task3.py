@@ -14,6 +14,6 @@ if coordinateX > 0 and coordinateY > 0:
 elif coordinateX < 0 and coordinateY > 0:
     print('Заданная точка находится во II-ой координатной четверти.')
 elif coordinateX < 0 and coordinateY < 0:
-    print('Заданная точка находится во III-ей координатной четверти.')
+    print('Заданная точка находится в III-ей координатной четверти.')
 elif coordinateX > 0 and coordinateY < 0:
-    print('Заданная точка находится во IV-ой координатной четверти.')
+    print('Заданная точка находится в IV-ой координатной четверти.')
